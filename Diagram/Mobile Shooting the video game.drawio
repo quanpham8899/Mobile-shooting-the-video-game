@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-13T15:29:06.559Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0" etag="ly8CNTf0XMQNUFEtLu8W" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-13T15:30:34.197Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0" etag="_YtFkPLxlbhC5-SDeVPN" version="24.6.5" type="github">
   <diagram name="Page-1" id="mzJbTqpyfRkgzpyweL4M">
     <mxGraphModel dx="2230" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -75,9 +75,9 @@
         <mxCell id="UWSb3e3wchymhMPec0I4-19" value="Main stage" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="350" y="380" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UWSb3e3wchymhMPec0I4-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UWSb3e3wchymhMPec0I4-21" target="UWSb3e3wchymhMPec0I4-74">
+        <mxCell id="UWSb3e3wchymhMPec0I4-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UWSb3e3wchymhMPec0I4-21" target="UWSb3e3wchymhMPec0I4-80">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="425" y="690" as="targetPoint" />
+            <mxPoint x="425.5" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UWSb3e3wchymhMPec0I4-21" value="Enter the portal to start the fight" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
@@ -155,11 +155,8 @@
         <mxCell id="UWSb3e3wchymhMPec0I4-65" value="Talk to playable&amp;nbsp;&lt;div&gt;character&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="640" y="475" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UWSb3e3wchymhMPec0I4-74" value="Get to stage&lt;div&gt;1&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="385" y="700" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="UWSb3e3wchymhMPec0I4-75" value="Stage 1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
-          <mxGeometry x="1235" y="10" width="80" height="80" as="geometry" />
+        <mxCell id="UWSb3e3wchymhMPec0I4-80" value="Stage 1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="385" y="820" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
