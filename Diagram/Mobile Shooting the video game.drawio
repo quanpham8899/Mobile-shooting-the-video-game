@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-13T15:26:23.701Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0" etag="acuBK8agsvhinS9YMkt_" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-13T15:27:05.366Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0" etag="Rcp5JQ20Fmp8YSOuXHZU" version="24.6.5" type="github">
   <diagram name="Page-1" id="mzJbTqpyfRkgzpyweL4M">
     <mxGraphModel dx="1639" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -79,7 +79,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UWSb3e3wchymhMPec0I4-21" value="Enter the portal to start the fight" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
-          <mxGeometry x="365" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="365" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UWSb3e3wchymhMPec0I4-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UWSb3e3wchymhMPec0I4-26" target="UWSb3e3wchymhMPec0I4-27">
           <mxGeometry relative="1" as="geometry" />
@@ -153,8 +153,8 @@
         <mxCell id="UWSb3e3wchymhMPec0I4-65" value="Talk to playable&amp;nbsp;&lt;div&gt;character&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="640" y="475" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UWSb3e3wchymhMPec0I4-70" value="Get to&amp;nbsp;&lt;div&gt;random stage&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="610" width="120" height="60" as="geometry" />
+        <mxCell id="UWSb3e3wchymhMPec0I4-70" value="Get to stage 1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
