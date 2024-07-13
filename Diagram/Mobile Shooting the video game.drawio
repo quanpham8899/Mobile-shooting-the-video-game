@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-13T15:51:38.986Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0" etag="hBX8I-u0RflTzUhcMJH_" version="24.6.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-13T16:05:10.567Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0" etag="M2FYfeUiEn_AzmSo1TJt" version="24.6.5" type="github" pages="2">
   <diagram name="Game-flowchart" id="mzJbTqpyfRkgzpyweL4M">
     <mxGraphModel dx="2230" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -337,7 +337,7 @@
         <mxCell id="S30QwYJIRZQyJxE3KbDy-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S30QwYJIRZQyJxE3KbDy-4" target="S30QwYJIRZQyJxE3KbDy-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1640" y="680" />
+              <mxPoint x="1640" y="720" />
               <mxPoint x="1640" y="480" />
             </Array>
           </mxGeometry>
@@ -348,13 +348,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="S30QwYJIRZQyJxE3KbDy-4" value="Exit room" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1475" y="640" width="80" height="80" as="geometry" />
+          <mxGeometry x="1475" y="680" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9Hf8kVn77FqN24Ny3d0R-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S30QwYJIRZQyJxE3KbDy-8" target="9Hf8kVn77FqN24Ny3d0R-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S30QwYJIRZQyJxE3KbDy-8" value="Next stage" style="ellipse;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="640" width="120" height="80" as="geometry" />
+          <mxGeometry x="1240" y="680" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="S30QwYJIRZQyJxE3KbDy-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S30QwYJIRZQyJxE3KbDy-15" target="S30QwYJIRZQyJxE3KbDy-4">
           <mxGeometry relative="1" as="geometry" />
@@ -381,11 +381,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9Hf8kVn77FqN24Ny3d0R-3" value="Is final stage" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="640" width="120" height="80" as="geometry" />
+          <mxGeometry x="1040" y="680" width="120" height="80" as="geometry" />
         </mxCell>
         <UserObject label="Main stage" link="data:page/id,mzJbTqpyfRkgzpyweL4M" id="9Hf8kVn77FqN24Ny3d0R-5">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
-            <mxGeometry x="1060" y="830" width="80" height="80" as="geometry" />
+            <mxGeometry x="1060" y="870" width="80" height="80" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
